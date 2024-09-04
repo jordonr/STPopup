@@ -12,7 +12,7 @@
 - Auto-reposition of popup view when keyboard shows up, make sure your `UITextField`/`UITextView` won't be covered by the keyboard.
 - Drag navigation bar to dismiss popup view.
 - Support both portrait and landscape orientation in iPhone and iPad.
-- iOS 7+.
+- iOS 12+.
 - Compatible with Swift.
 
 ## Use Cases
